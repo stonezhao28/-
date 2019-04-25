@@ -1,0 +1,15 @@
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\bin\Release\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\bin\Release\SMSAgent.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\obj\Release\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\obj\Release\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\20120829\HYM\SMSAgent\obj\Release\SMSAgent.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\bin\Release\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\bin\Release\SMSAgent.pdb
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\obj\Release\ResolveAssemblyReference.cache
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\obj\Release\SMSAgent.dll
+E:\我的工作\软件项目\唐山朕桦商贸会员管理\HYManager\HYM\SMSAgent\obj\Release\SMSAgent.pdb
+C:\Users\Administrator\Downloads\某会员管理系统源码【bbs.heirui.cn】\某会员管理系统源码【bbs.heirui.cn】\HYM\SMSAgent\bin\Release\SMSAgent.dll
+C:\Users\Administrator\Downloads\某会员管理系统源码【bbs.heirui.cn】\某会员管理系统源码【bbs.heirui.cn】\HYM\SMSAgent\bin\Release\SMSAgent.pdb
+C:\Users\Administrator\Downloads\某会员管理系统源码【bbs.heirui.cn】\某会员管理系统源码【bbs.heirui.cn】\HYM\SMSAgent\obj\Release\SMSAgent.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\某会员管理系统源码【bbs.heirui.cn】\某会员管理系统源码【bbs.heirui.cn】\HYM\SMSAgent\obj\Release\SMSAgent.dll
+C:\Users\Administrator\Downloads\某会员管理系统源码【bbs.heirui.cn】\某会员管理系统源码【bbs.heirui.cn】\HYM\SMSAgent\obj\Release\SMSAgent.pdb

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DBUtil.dll">
+      <publishTime>04/17/2019 15:25:16</publishTime>
+    </File>
+    <File Include="bin/DBUtil.pdb">
+      <publishTime>04/17/2019 15:25:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.UI.WebControls.dll">
+      <publishTime>06/01/2003 10:54:46</publishTime>
+    </File>
+    <File Include="bin/SMSAgent.dll">
+      <publishTime>04/17/2019 11:22:31</publishTime>
+    </File>
+    <File Include="bin/SMSAgent.pdb">
+      <publishTime>04/17/2019 11:22:31</publishTime>
+    </File>
+    <File Include="bin/UtilLib.dll">
+      <publishTime>04/17/2019 16:17:34</publishTime>
+    </File>
+    <File Include="bin/UtilLib.pdb">
+      <publishTime>04/17/2019 16:17:34</publishTime>
+    </File>
+    <File Include="bin/Web.dll">
+      <publishTime>04/17/2019 16:17:35</publishTime>
+    </File>
+    <File Include="bin/Web.pdb">
+      <publishTime>04/17/2019 16:17:35</publishTime>
+    </File>
+    <File Include="css/Default.css">
+      <publishTime>08/19/2012 21:49:54</publishTime>
+    </File>
+    <File Include="css/jquery.ui.autocomplete.css">
+      <publishTime>04/11/2012 10:02:22</publishTime>
+    </File>
+    <File Include="css/normal.css">
+      <publishTime>11/02/2012 17:54:53</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/17/2019 11:16:37</publishTime>
+    </File>
+    <File Include="images/about/comlogo.gif">
+      <publishTime>09/17/2012 14:51:50</publishTime>
+    </File>
+    <File Include="images/about/comlogo_bak.gif">
+      <publishTime>01/29/2003 12:34:44</publishTime>
+    </File>
+    <File Include="images/about/logo.gif">
+      <publishTime>05/29/2015 12:00:34</publishTime>
+    </File>
+    <File Include="images/about/logo_bak.gif">
+      <publishTime>01/29/2003 12:33:04</publishTime>
+    </File>
+    <File Include="images/button/alltoleft.gif">
+      <publishTime>11/21/2002 10:13:28</publishTime>
+    </File>
+    <File Include="images/button/alltoright.gif">
+      <publishTime>11/21/2002 10:13:28</publishTime>
+    </File>
+    <File Include="images/button/bu-on.gif">
+      <publishTime>12/27/2002 16:48:26</publishTime>
+    </File>
+    <File Include="images/button/bu-out.gif">
+      <publishTime>12/27/2002 16:20:40</publishTime>
+    </File>
+    <File Include="images/button/CompletePay.gif">
+      <publishTime>02/25/2003 13:39:16</publishTime>
+    </File>
+    <File Include="images/button/datetime.gif">
+      <publishTime>11/13/2002 16:39:10</publishTime>
+    </File>
+    <File Include="images/button/NoPay.gif">
+      <publishTime>02/25/2003 13:39:16</publishTime>
+    </File>
+    <File Include="images/button/ok.gif">
+      <publishTime>01/09/2003 14:28:18</publishTime>
+    </File>
+    <File Include="images/button/Page1_ButtonOff.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page1_ButtonOn.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page2_ButtonOff.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page2_ButtonOn.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page3_ButtonOff.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page3_ButtonOn.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page4_ButtonOff.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page4_ButtonOn.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page5_ButtonOff.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/Page5_ButtonOn.gif">
+      <publishTime>11/19/2002 09:12:24</publishTime>
+    </File>
+    <File Include="images/button/pwd.gif">
+      <publishTime>03/14/2003 12:05:00</publishTime>
+    </File>
+    <File Include="images/button/showcode.gif">
+      <publishTime>04/11/2002 18:05:54</publishTime>
+    </File>
+    <File Include="images/button/sub.gif">
+      <publishTime>01/03/2003 18:16:30</publishTime>
+    </File>
+    <File Include="images/button/toleft.gif">
+      <publishTime>11/21/2002 10:13:28</publishTime>
+    </File>
+    <File Include="images/button/toright.gif">
+      <publishTime>11/21/2002 10:13:28</publishTime>
+    </File>
+    <File Include="images/button/userright_alltoleft.gif">
+      <publishTime>01/29/2003 11:25:00</publishTime>
+    </File>
+    <File Include="images/button/userright_alltoright.gif">
+      <publishTime>01/29/2003 11:25:00</publishTime>
+    </File>
+    <File Include="images/button/userright_toleft.gif">
+      <publishTime>01/29/2003 11:25:00</publishTime>
+    </File>
+    <File Include="images/button/userright_toright_1.gif">
+      <publishTime>01/29/2003 11:25:00</publishTime>
+    </File>
+    <File Include="images/flash/app.swf">
+      <publishTime>02/26/2003 15:59:30</publishTime>
+    </File>
+    <File Include="images/flash/help.swf">
+      <publishTime>01/27/2003 09:59:12</publishTime>
+    </File>
+    <File Include="images/flash/wanke.swf">
+      <publishTime>01/17/2003 14:48:44</publishTime>
+    </File>
+    <File Include="images/images/botbg.gif">
+      <publishTime>11/02/2012 16:00:08</publishTime>
+    </File>
+    <File Include="images/images/cjlr.gif">
+      <publishTime>11/02/2012 10:08:23</publishTime>
+    </File>
+    <File Include="images/images/control.gif">
+      <publishTime>11/02/2012 17:47:10</publishTime>
+    </File>
+    <File Include="images/images/dxpt.gif">
+      <publishTime>11/02/2012 16:23:41</publishTime>
+    </File>
+    <File Include="images/images/hycx.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/images/hycz.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/images/hygl.gif">
+      <publishTime>11/02/2012 16:18:39</publishTime>
+    </File>
+    <File Include="images/images/hylr.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/images/hyxf.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/images/ico_1.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/images/logo_1.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/images/spcx.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/images/spgl.gif">
+      <publishTime>11/02/2012 16:18:37</publishTime>
+    </File>
+    <File Include="images/images/titbar.gif">
+      <publishTime>05/29/2015 11:54:50</publishTime>
+    </File>
+    <File Include="images/images/tjfx.gif">
+      <publishTime>11/02/2012 16:18:40</publishTime>
+    </File>
+    <File Include="images/images/top_dot.gif">
+      <publishTime>11/02/2012 16:04:03</publishTime>
+    </File>
+    <File Include="images/images/top_notice.gif">
+      <publishTime>11/02/2012 14:53:58</publishTime>
+    </File>
+    <File Include="images/images/xfgl.gif">
+      <publishTime>11/02/2012 16:27:29</publishTime>
+    </File>
+    <File Include="images/images/xtgn.gif">
+      <publishTime>11/02/2012 16:23:41</publishTime>
+    </File>
+    <File Include="images/index/botbg.gif">
+      <publishTime>11/02/2012 15:53:15</publishTime>
+    </File>
+    <File Include="images/index/copyrightbar.gif">
+      <publishTime>06/29/2003 16:47:28</publishTime>
+    </File>
+    <File Include="images/index/copyrightbar1.gif">
+      <publishTime>12/31/2002 13:51:52</publishTime>
+    </File>
+    <File Include="images/index/help_bg.gif">
+      <publishTime>01/17/2003 17:56:16</publishTime>
+    </File>
+    <File Include="images/index/login_21.gif">
+      <publishTime>10/30/2002 14:52:04</publishTime>
+    </File>
+    <File Include="images/index/logout.gif">
+      <publishTime>05/21/2003 15:40:36</publishTime>
+    </File>
+    <File Include="images/index/menu_bot.gif">
+      <publishTime>10/06/2012 22:42:27</publishTime>
+    </File>
+    <File Include="images/index/menu_bot3.gif">
+      <publishTime>05/21/2003 15:34:44</publishTime>
+    </File>
+    <File Include="images/index/menu_bot4.gif">
+      <publishTime>05/21/2003 16:28:34</publishTime>
+    </File>
+    <File Include="images/index/menu_top.gif">
+      <publishTime>12/30/2002 12:17:50</publishTime>
+    </File>
+    <File Include="images/index/minandclose.gif">
+      <publishTime>12/30/2002 11:47:56</publishTime>
+    </File>
+    <File Include="images/index/titbar.gif">
+      <publishTime>08/17/2012 11:47:16</publishTime>
+    </File>
+    <File Include="images/index/titbar_bg1.gif">
+      <publishTime>10/29/2002 12:12:26</publishTime>
+    </File>
+    <File Include="images/index/titbar_bg2.gif">
+      <publishTime>10/29/2002 12:12:42</publishTime>
+    </File>
+    <File Include="images/index/titbar_contact.gif">
+      <publishTime>10/29/2002 12:11:30</publishTime>
+    </File>
+    <File Include="images/index/titbar_expand.gif">
+      <publishTime>10/29/2002 12:11:52</publishTime>
+    </File>
+    <File Include="images/index/top_back.gif">
+      <publishTime>10/29/2002 11:57:14</publishTime>
+    </File>
+    <File Include="images/index/top_banner.gif">
+      <publishTime>12/30/2002 11:53:06</publishTime>
+    </File>
+    <File Include="images/index/top_bg.gif">
+      <publishTime>12/30/2002 11:34:04</publishTime>
+    </File>
+    <File Include="images/index/top_botbg.gif">
+      <publishTime>12/30/2002 11:54:06</publishTime>
+    </File>
+    <File Include="images/index/top_dot.gif">
+      <publishTime>09/18/2012 13:08:57</publishTime>
+    </File>
+    <File Include="images/index/top_dot1.gif">
+      <publishTime>12/30/2002 11:43:00</publishTime>
+    </File>
+    <File Include="images/index/top_help.gif">
+      <publishTime>01/06/2003 16:01:30</publishTime>
+    </File>
+    <File Include="images/index/top_logo2.gif">
+      <publishTime>10/06/2012 23:22:12</publishTime>
+    </File>
+    <File Include="images/index/top_logo22.gif">
+      <publishTime>01/22/2003 14:39:34</publishTime>
+    </File>
+    <File Include="images/index/top_notice.gif">
+      <publishTime>10/06/2012 22:10:37</publishTime>
+    </File>
+    <File Include="images/index/top_pre.gif">
+      <publishTime>10/29/2002 11:58:04</publishTime>
+    </File>
+    <File Include="images/index/top_refresh.gif">
+      <publishTime>10/29/2002 11:57:42</publishTime>
+    </File>
+    <File Include="images/login/cz.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/login/cz.png">
+      <publishTime>09/18/2012 11:28:14</publishTime>
+    </File>
+    <File Include="images/login/dl.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/login/dl.png">
+      <publishTime>09/18/2012 11:28:14</publishTime>
+    </File>
+    <File Include="images/login/login_03.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/login/login_04.gif">
+      <publishTime>10/06/2012 22:48:01</publishTime>
+    </File>
+    <File Include="images/login/login_04_bk.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/login/login_06.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/login/login_07.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/login/login_08.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/login/login_09.gif">
+      <publishTime>09/17/2012 14:14:14</publishTime>
+    </File>
+    <File Include="images/login/login_09_bak.gif">
+      <publishTime>09/14/2012 18:11:23</publishTime>
+    </File>
+    <File Include="images/menu/control.gif">
+      <publishTime>01/16/2003 15:40:56</publishTime>
+    </File>
+    <File Include="images/menu/dxpt.gif">
+      <publishTime>11/02/2012 16:23:41</publishTime>
+    </File>
+    <File Include="images/menu/hygl.gif">
+      <publishTime>11/02/2012 16:18:39</publishTime>
+    </File>
+    <File Include="images/menu/left_dot1.gif">
+      <publishTime>10/31/2002 09:43:48</publishTime>
+    </File>
+    <File Include="images/menu/left_dot2.gif">
+      <publishTime>10/31/2002 09:44:00</publishTime>
+    </File>
+    <File Include="images/menu/left_dot3.gif">
+      <publishTime>01/15/2003 15:30:28</publishTime>
+    </File>
+    <File Include="images/menu/left_dot4.gif">
+      <publishTime>01/15/2003 15:31:30</publishTime>
+    </File>
+    <File Include="images/menu/spgl.gif">
+      <publishTime>11/02/2012 16:18:37</publishTime>
+    </File>
+    <File Include="images/menu/tjfx.gif">
+      <publishTime>11/02/2012 16:18:40</publishTime>
+    </File>
+    <File Include="images/menu/xfgl.gif">
+      <publishTime>11/02/2012 16:27:29</publishTime>
+    </File>
+    <File Include="images/menu/xtgn.gif">
+      <publishTime>11/02/2012 16:23:41</publishTime>
+    </File>
+    <File Include="images/mydesk/desktop_bg1.gif">
+      <publishTime>01/27/2003 11:42:40</publishTime>
+    </File>
+    <File Include="images/mydesk/desktop_bg2.jpg">
+      <publishTime>01/27/2003 11:43:48</publishTime>
+    </File>
+    <File Include="images/mydesk/welcome.gif">
+      <publishTime>01/27/2003 11:46:48</publishTime>
+    </File>
+    <File Include="images/page/desktop_placebg.gif">
+      <publishTime>01/07/2003 10:58:36</publishTime>
+    </File>
+    <File Include="images/page/page_place.gif">
+      <publishTime>12/27/2002 16:16:48</publishTime>
+    </File>
+    <File Include="images/page/table_bot.gif">
+      <publishTime>01/16/2003 15:16:14</publishTime>
+    </File>
+    <File Include="images/page/table_bot2.gif">
+      <publishTime>01/08/2003 11:02:26</publishTime>
+    </File>
+    <File Include="images/page/table_dot_l.gif">
+      <publishTime>12/27/2002 15:55:02</publishTime>
+    </File>
+    <File Include="images/page/table_dot_r.gif">
+      <publishTime>12/27/2002 15:55:26</publishTime>
+    </File>
+    <File Include="images/page/table_tit_bg.gif">
+      <publishTime>12/27/2002 16:08:26</publishTime>
+    </File>
+    <File Include="images/page/table_tit_bg2.gif">
+      <publishTime>01/03/2003 12:16:30</publishTime>
+    </File>
+    <File Include="images/page/table_tit_l.gif">
+      <publishTime>12/27/2002 16:07:42</publishTime>
+    </File>
+    <File Include="images/page/table_tit_l2.gif">
+      <publishTime>01/03/2003 12:16:58</publishTime>
+    </File>
+    <File Include="images/page/table_tit_r.gif">
+      <publishTime>12/27/2002 16:08:12</publishTime>
+    </File>
+    <File Include="images/page/table_tit_r2.gif">
+      <publishTime>01/03/2003 12:16:06</publishTime>
+    </File>
+    <File Include="images/page/table_top.gif">
+      <publishTime>01/16/2003 15:14:38</publishTime>
+    </File>
+    <File Include="images/page/table_top2.gif">
+      <publishTime>01/08/2003 11:08:40</publishTime>
+    </File>
+    <File Include="images/page/window2.gif">
+      <publishTime>02/28/2003 16:48:54</publishTime>
+    </File>
+    <File Include="images/page/window3.gif">
+      <publishTime>02/28/2003 16:45:44</publishTime>
+    </File>
+    <File Include="images/page/zhgl_dot.gif">
+      <publishTime>03/28/2003 15:36:56</publishTime>
+    </File>
+    <File Include="images/son/chongzhi.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/son/main_bg.jpg">
+      <publishTime>01/07/2003 15:12:02</publishTime>
+    </File>
+    <File Include="images/son/main_line.jpg">
+      <publishTime>11/05/2002 11:06:36</publishTime>
+    </File>
+    <File Include="images/son/shangpinchaxun.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/son/shangpinluru.gif">
+      <publishTime>11/02/2012 10:08:23</publishTime>
+    </File>
+    <File Include="images/son/vipchaxun.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/son/vipluru.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="images/son/xiaofei.gif">
+      <publishTime>11/02/2012 10:08:24</publishTime>
+    </File>
+    <File Include="include/about.htm">
+      <publishTime>04/17/2019 11:20:20</publishTime>
+    </File>
+    <File Include="include/blank.htm">
+      <publishTime>11/14/2002 16:41:38</publishTime>
+    </File>
+    <File Include="include/bottom.htm">
+      <publishTime>04/17/2019 11:58:22</publishTime>
+    </File>
+    <File Include="include/left_index.aspx">
+      <publishTime>11/02/2012 17:55:51</publishTime>
+    </File>
+    <File Include="include/main.aspx">
+      <publishTime>11/07/2012 11:19:06</publishTime>
+    </File>
+    <File Include="include/refresh.aspx">
+      <publishTime>09/29/2012 11:33:05</publishTime>
+    </File>
+    <File Include="include/top.aspx">
+      <publishTime>04/17/2019 16:10:12</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>11/03/2012 09:36:47</publishTime>
+    </File>
+    <File Include="js/BaiduKuang.js">
+      <publishTime>09/29/2012 16:34:04</publishTime>
+    </File>
+    <File Include="js/jquery/jquery-1.6.2.min.js">
+      <publishTime>04/11/2012 10:02:26</publishTime>
+    </File>
+    <File Include="js/jquery/jquery.ui.autocomplete.js">
+      <publishTime>04/11/2012 10:02:26</publishTime>
+    </File>
+    <File Include="js/jquery/jquery.ui.core.js">
+      <publishTime>04/11/2012 10:02:26</publishTime>
+    </File>
+    <File Include="js/jquery/jquery.ui.position.js">
+      <publishTime>04/11/2012 10:02:26</publishTime>
+    </File>
+    <File Include="js/jquery/jquery.ui.widget.js">
+      <publishTime>04/11/2012 10:02:26</publishTime>
+    </File>
+    <File Include="js/ListDiv.js">
+      <publishTime>11/30/2002 16:43:34</publishTime>
+    </File>
+    <File Include="js/outlook-wygl.js">
+      <publishTime>01/17/2003 15:38:20</publishTime>
+    </File>
+    <File Include="js/PressEnter.js">
+      <publishTime>11/13/2002 16:39:10</publishTime>
+    </File>
+    <File Include="js/ShowDiv.js">
+      <publishTime>11/18/2002 09:39:18</publishTime>
+    </File>
+    <File Include="js/time.htm">
+      <publishTime>11/13/2002 20:16:28</publishTime>
+    </File>
+    <File Include="js/time.js">
+      <publishTime>09/08/2009 16:47:00</publishTime>
+    </File>
+    <File Include="js/Time_Popup.js">
+      <publishTime>05/16/2003 13:38:54</publishTime>
+    </File>
+    <File Include="main_goodsmanager/program/GoodsManager_Category_Add.aspx">
+      <publishTime>09/28/2012 21:39:57</publishTime>
+    </File>
+    <File Include="main_goodsmanager/program/GoodsManager_Category_Index.aspx">
+      <publishTime>10/07/2012 08:52:59</publishTime>
+    </File>
+    <File Include="main_goodsmanager/program/GoodsManager_Edit.aspx">
+      <publishTime>06/29/2013 18:22:43</publishTime>
+    </File>
+    <File Include="main_goodsmanager/program/GoodsManager_View.aspx">
+      <publishTime>02/18/2013 08:31:10</publishTime>
+    </File>
+    <File Include="main_goodsmanager/son_goodsmanager.aspx">
+      <publishTime>08/22/2012 16:55:32</publishTime>
+    </File>
+    <File Include="main_membermanager/program/MemManager_AddLev.aspx">
+      <publishTime>09/13/2012 09:22:58</publishTime>
+    </File>
+    <File Include="main_membermanager/program/MemManager_Edit.aspx">
+      <publishTime>10/08/2012 19:46:54</publishTime>
+    </File>
+    <File Include="main_membermanager/program/MemManager_Level.aspx">
+      <publishTime>09/17/2012 10:52:15</publishTime>
+    </File>
+    <File Include="main_membermanager/program/MemManager_View.aspx">
+      <publishTime>10/08/2012 17:18:56</publishTime>
+    </File>
+    <File Include="main_membermanager/son_usermanager.aspx">
+      <publishTime>09/12/2012 07:20:39</publishTime>
+    </File>
+    <File Include="main_paymanager/program/expense.aspx">
+      <publishTime>04/17/2019 15:53:04</publishTime>
+    </File>
+    <File Include="main_paymanager/program/gouwu.aspx">
+      <publishTime>04/16/2019 18:01:56</publishTime>
+    </File>
+    <File Include="main_paymanager/program/inputmoney.aspx">
+      <publishTime>10/08/2012 14:01:16</publishTime>
+    </File>
+    <File Include="main_paymanager/son_paymanager.aspx">
+      <publishTime>08/28/2012 09:51:30</publishTime>
+    </File>
+    <File Include="main_system/program/detail.aspx">
+      <publishTime>09/18/2012 16:28:00</publishTime>
+    </File>
+    <File Include="main_system/program/System_DataBackup_Backup.aspx">
+      <publishTime>09/15/2012 19:07:36</publishTime>
+    </File>
+    <File Include="main_system/program/System_DataBackup_Restore.aspx">
+      <publishTime>09/06/2012 17:20:21</publishTime>
+    </File>
+    <File Include="main_system/program/System_GroupAuthorization_Edit.aspx">
+      <publishTime>04/17/2019 11:50:20</publishTime>
+    </File>
+    <File Include="main_system/program/System_GroupAuthorization_Index.aspx">
+      <publishTime>09/15/2012 19:08:40</publishTime>
+    </File>
+    <File Include="main_system/program/System_MemCardExpendRecord_View.aspx">
+      <publishTime>10/08/2012 14:18:06</publishTime>
+    </File>
+    <File Include="main_system/program/System_News_Edit.aspx">
+      <publishTime>09/22/2012 10:44:15</publishTime>
+    </File>
+    <File Include="main_system/program/System_News_View.aspx">
+      <publishTime>09/22/2012 11:28:06</publishTime>
+    </File>
+    <File Include="main_system/program/System_QuestionFB_Edit.aspx">
+      <publishTime>09/24/2012 13:42:40</publishTime>
+    </File>
+    <File Include="main_system/program/System_QuestionFB_Reply.aspx">
+      <publishTime>09/29/2012 16:02:22</publishTime>
+    </File>
+    <File Include="main_system/program/System_QuestionFB_View.aspx">
+      <publishTime>09/24/2012 13:19:58</publishTime>
+    </File>
+    <File Include="main_system/program/System_RecordOperate_View.aspx">
+      <publishTime>10/07/2012 12:47:44</publishTime>
+    </File>
+    <File Include="main_system/program/System_SMSLog_View.aspx">
+      <publishTime>10/07/2012 09:11:54</publishTime>
+    </File>
+    <File Include="main_system/program/System_SMSTemplate_Edit.aspx">
+      <publishTime>09/28/2012 23:33:06</publishTime>
+    </File>
+    <File Include="main_system/program/System_SMSTemplate_View.aspx">
+      <publishTime>10/07/2012 09:17:11</publishTime>
+    </File>
+    <File Include="main_system/program/System_SMS_GetLast.aspx">
+      <publishTime>08/28/2012 00:10:44</publishTime>
+    </File>
+    <File Include="main_system/program/System_SMS_SendByNumber.aspx">
+      <publishTime>10/08/2012 10:53:23</publishTime>
+    </File>
+    <File Include="main_system/program/System_SMS_SendBySystem.aspx">
+      <publishTime>09/21/2012 14:26:25</publishTime>
+    </File>
+    <File Include="main_system/program/System_UserAuthorization_Admin.aspx">
+      <publishTime>09/28/2012 13:14:22</publishTime>
+    </File>
+    <File Include="main_system/program/System_UserAuthorization_Index.aspx">
+      <publishTime>09/28/2012 13:14:23</publishTime>
+    </File>
+    <File Include="main_system/program/Sys_EditPassward.aspx">
+      <publishTime>09/28/2012 13:27:08</publishTime>
+    </File>
+    <File Include="main_system/son_backup.aspx">
+      <publishTime>08/14/2012 22:48:38</publishTime>
+    </File>
+    <File Include="main_system/son_log.aspx">
+      <publishTime>08/14/2012 23:58:28</publishTime>
+    </File>
+    <File Include="main_system/son_sms.aspx">
+      <publishTime>08/28/2012 00:14:20</publishTime>
+    </File>
+    <File Include="main_system/son_user.aspx">
+      <publishTime>08/13/2012 19:18:06</publishTime>
+    </File>
+    <File Include="main_tongji/program/Tongji_AgentMonth_View.aspx">
+      <publishTime>10/08/2012 16:46:35</publishTime>
+    </File>
+    <File Include="main_tongji/program/Tongji_MemMonth_View.aspx">
+      <publishTime>10/02/2012 10:22:01</publishTime>
+    </File>
+    <File Include="main_tongji/program/Tongji_Mem_View.aspx">
+      <publishTime>09/28/2012 13:55:39</publishTime>
+    </File>
+    <File Include="main_tongji/son_TongjiUser.aspx">
+      <publishTime>08/28/2012 01:44:02</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>08/13/2012 14:18:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>08/13/2012 14:18:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>08/13/2012 14:18:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
